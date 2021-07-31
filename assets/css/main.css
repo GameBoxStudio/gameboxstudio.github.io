@@ -2812,6 +2812,29 @@ input, select, textarea {
 
 			}
 
+		.wrapper > .inner2 {
+			width: 60em;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+			@media screen and (max-width: 1280px) {
+
+				.wrapper > .inner2 {
+					width: 90%;
+				}
+
+			}
+
+			@media screen and (max-width: 980px) {
+
+				.wrapper > .inner2 {
+					width: 100%;
+				}
+
+			}
+
+
 		.wrapper.alt {
 			padding: 0;
 		}

@@ -5431,6 +5431,9 @@ button.close {
   }
 }
 
+iframe {
+    max-width: 100%;
+}
 
 body {
   padding-top: 80px;

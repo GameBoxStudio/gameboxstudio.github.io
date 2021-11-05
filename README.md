@@ -1,4 +1,5 @@
-# Site Web GameBox Studio
-Si vous n'êtes pas dans la section développement site web, veuillez ne pas toucher à ces fichiers sans autorisation sous peine de sanction.
+# GameBox Web V2
 
-### Site basé sur une template de HTML5UP.net sous Creative Commons Attribution 3.0 Unported
+The "dev" branch is the most up to date development version of GameBox Web, currently live at gamebox-studio.com
+
+The "main" branch is the version currently in production and live at gamebox-studio.com

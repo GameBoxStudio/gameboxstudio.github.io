@@ -4,4 +4,4 @@ The "dev" branch is the most up to date development version of GameBox Web, curr
 
 The "main" is the V1 version of the site and is discontinued.
 
-#### Based on Mashup Pure under the Creative Commons Licence
+### Based on Mashup Pure under the Creative Commons Licence
